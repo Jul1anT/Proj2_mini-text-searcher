@@ -1,0 +1,5 @@
+# Python artifacts (if any)
+__pycache__/
+*.py[cod]
+*.pyo
+pip-wheel-metadata/
