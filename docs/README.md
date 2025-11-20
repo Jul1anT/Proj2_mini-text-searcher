@@ -140,3 +140,7 @@ Proj2_mini-text-searcher/
 - **Inverted Index**: O(1) average search using Python dictionary
 - **Sparse Vector**: O(k) space where k = non-zero elements << n
 - **No external dependencies**: Only Python standard library
+
+---
+
+[Explication Video](https://www.youtube.com/watch?v=OJ1kQ0Mo_5Y)
